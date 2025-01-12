@@ -1,0 +1,22 @@
+[
+  { "name": "T-Shirt",
+    "image": "https://isto.pt/cdn/shop/files/Classic_T-shirt_Black_1_4b42b483-c2cf-46f6-805c-90bd905b4338.webp?v=1685716490",
+     "description": "A cool t-shirt."
+  },
+  { "name": "Jeans",
+    "image": "https://isto.pt/cdn/shop/products/Everyday_Denim_Blue_1.jpg?v=1668613349",
+     "description": "Stylish blue jeans."
+  },
+  { "name": "Hoodie",
+    "image": "https://www.air-force.com/media/catalog/product/cache/cf26d88f340d099e8645dec4084bc7a6/g/e/gem0707_804_front_grijs_1_1.jpg",
+     "description": "A comfortable and stylish hoodie, perfect for casual wear."
+  },
+  { "name": "Jacket",
+    "image": "https://www.stormtech.ca/cdn/shop/files/AFP-2_FRONT_HOOD_UP_Navy_Graphite.jpg?v=1727298958&width=1200",
+     "description": "A lightweight jacket, ideal for chilly days."
+  },
+  { "name": "Skirt",
+    "image": "https://cdn-images.farfetch-contents.com/23/73/05/73/23730573_54192931_600.jpg",
+   "description": "A flowy summer skirt, perfect for warm days and casual outings."
+  }
+]
